@@ -1,27 +1,61 @@
-# EssentialsPractice
+# Investment Calculator Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0-next.2.
+Welcome to this second project from the Angular Course from Maximilian Schwarzmuller. It includes a basic calculator  Thank you for visiting!
 
-## Development server
+<img src="/public/investment-calculator-logo.png">
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Technologies Used
 
-## Code scaffolding
+Technologies used in the project:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<div align="center">
+<a href="https://developer.mozilla.org/en/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML5-FF6C37?style=for-the-badge&logo=HTML5&logoColor=white"/>
+</a>
+<a href="https://developer.mozilla.org/en/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/css-1D7CF2?style=for-the-badge&logo=css3&logoColor=white"/>
+</a>
+<a href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</a>
+<a href="https://angular.io/">
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</a>
+<a href="https://cli.angular.io/">
+    <img src="https://img.shields.io/badge/Angular_CLI-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</a>
+<a href="https://sass-lang.com/">
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+</a>
+<a href="https://pages.github.com/">
+    <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
 
-## Build
+## Table of Contents 📝
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1. [About the Project](#about-the-project)
+2. [Key Features](#key-features)
+3. [Technologies Used](#technologies-used)
+4. [Setup and Deployment](#setup-and-deployment)
+5. [Local Development](#local-development)
+6. [Contributing](#contributing)
+7. [Acknowledgments](#acknowledgments)
+8. [Contact Information](#contact-information)
 
-## Running unit tests
+## About the Project
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+The idea of the project is to practice once again the basics of Angular learned to this second part in the course. It combines Angular components, signals, services and various pipes.
 
-## Running end-to-end tests
+![Preview](./public/main-view.png)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Deployment
 
-## Further help
+[Not available](https://example.com/)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Contact
+
+<a href = "mailto:micorreoelectronico@gmail.com"><img src="https://img.shields.io/badge/Gmail-C6362C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/linkedinUser/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+</p>
