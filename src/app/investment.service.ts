@@ -37,4 +37,5 @@ export class InvestmentService {
   }
 }
 
+let testinz: string;
 
