@@ -36,3 +36,5 @@ export class InvestmentService {
     this.resultData = annualData;
   }
 }
+
+
