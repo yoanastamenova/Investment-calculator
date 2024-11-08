@@ -15,9 +15,6 @@ Technologies used in the project:
 <a href="https://developer.mozilla.org/en/docs/Web/CSS">
     <img src="https://img.shields.io/badge/css-1D7CF2?style=for-the-badge&logo=css3&logoColor=white"/>
 </a>
-<a href="https://www.javascript.com/">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</a>
 <a href="https://angular.io/">
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 </a>
